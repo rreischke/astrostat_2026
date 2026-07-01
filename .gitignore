@@ -5,5 +5,10 @@ sheets/*_solution*
 !sheets/sheet_4_solution.ipynb
 !sheets/sheet_5_solution.ipynb
 !sheets/sheet_6_solution.ipynb
+!sheets/sheet_7_solution.ipynb
 .DS_Store
 **/.DS_Store
+
+summary_output/*
+sheets/sbi.ipynb
+sheets/summary.ipynb
